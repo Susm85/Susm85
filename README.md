@@ -4,5 +4,5 @@
 
 ### Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/miss_.sv)
+[![Instagram](https://img.shields.io/badge/logo=instagram)](https://www.instagram.com/miss_.sv)
 
